@@ -5,7 +5,7 @@ This repo contains a self-hosting LSL compiler written in LSL that emits native 
 ## Quick Start
 
 Compile any LSL file using the selfhost compiler via CLI arguments:
-
+(Not working)
 ```bash
 ./compiler_selfhost_stage1.out path/to/input.lsl -o path/to/output.out
 # or
